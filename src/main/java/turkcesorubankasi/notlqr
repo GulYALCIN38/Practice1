@@ -1,0 +1,46 @@
+/*
+
+EX1=String s = "aaaabbbbcddf"; boyle bir stringte harflerin tekrar sayisini gosteren kodu yazin
+ornegin==>4a4b1c2d2f
+*/
+
+/*
+  EX2= Dikey olarak bolunen bir agac sekli ciziniz.. agacin tac uzunlugunu kullanicidan aliniz..
+   Govde sabit ve 5 olsun.
+         /* tac uzunlugu -> 6 iken
+            ^
+            ^^
+            ^^^
+            ^^^^
+            ^^^^^
+            ^^^^^^
+            |||
+            |||
+            |||
+            |||
+            |||
+     */
+
+
+
+     /*
+    /EX;3;  kullanicidan aldigimiz bir stringin, yine  kullanicidan aldigimiz baslangic ve bitis indexi
+      arasini ekrana yazdiran bir methot olusturalim
+     */
+
+
+     /*
+     EX/4; kullanicdan bir pozitif sayi isteyin ve sayinin tam kare olup olmadigina bakin
+     ***EGER BIR SAYI, HER HANGI BIR SAYININ KENDISIYLE CARPIMI ILE OLUSUYORSA TAM KAREDIR 3*3=9, 11*11 =121
+     */
+
+
+        /*
+        EX;5; kullanicidan bir sifre isteyi
+        ilk harf kucuk OLMALI
+        son karakter rakam olsun
+        eger bu saglanmiyorsa whilw loop ile tekrar tekrar sifre isteyin
+         */
+
+     //ex odev; kullanicidan  sayi ve us degerlerini alip olusturdugunuz bir methotla yazdirin
+     //or; sayi=3 us =4 ==> 3*3*3*3
